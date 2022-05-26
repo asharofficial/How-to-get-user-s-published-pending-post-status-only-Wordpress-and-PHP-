@@ -8,3 +8,4 @@
         }
     }
     add_action('pre_get_posts','allow_pending_listings');
+//code
